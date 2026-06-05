@@ -1,0 +1,28 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Obj]/
+/[Build]/
+/[Builds]/
+/[Logs]/
+/[UserSettings]/
+MemoryCaptures/
+Recording/
+/[Asmdef保存用]/
+
+# スクリプトコンパイル時のテンポラリファイル
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.IDB
+
+# OS特有のゴミファイル
+.DS_Store
+Thumbs.db
